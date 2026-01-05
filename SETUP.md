@@ -13,6 +13,7 @@ brew services start postgresql@14
 createdb -U postgres notes_app
 ```
 
+
 #### disable PostgreSQL login password request for local users
 
 edit C:\Program Files\PostgreSQL\18\data\pg_hba.conf
